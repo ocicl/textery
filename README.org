@@ -1,0 +1,10 @@
+* textery
+
+lisp tracery implementation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/compufox/textery.git   |
+| commit  | a63fb04  |
+| systems | textery |
+|---------+-------------------------------------------|
+
